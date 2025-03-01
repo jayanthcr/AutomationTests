@@ -6,7 +6,7 @@ public class ArmstrongNumber {
 		
 		int n=2431;//153 371 -> Armstrong 
 		int temp=n;
-		double res=0;
+		double res=0; //result
 		while(n!=0)
 		{
 			int r=n%10;
